@@ -1,16 +1,5 @@
-# upload_page
+# uploadResult_page
+## Glimpse of UI page
+Designed the final page of "Notes Shop" App. The user will land upto this page after making payment and uploading the required documents.
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![WhatsApp Image 2023-08-05 at 19 28 24](https://github.com/palak684/My_Projects/assets/104788250/e3d2653d-b755-41c8-be81-53cd3ada5b5e)
