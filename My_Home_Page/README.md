@@ -1,16 +1,6 @@
 # home_page
+## Glimpse of UI Page
+Designed the Home page which contains clickable buttons to navigate to different pages
 
-A new Flutter project.
+![WhatsApp Image 2023-08-05 at 22 03 56](https://github.com/palak684/My_Projects/assets/104788250/484cf808-d5aa-4130-b048-075cd9444b5e)
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
